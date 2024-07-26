@@ -1,6 +1,5 @@
 # PointCloudPractice
 A repository to practice the pocession of point cloud
-下面是关于这段代码的详细英文Markdown说明：
 
 ---
 
