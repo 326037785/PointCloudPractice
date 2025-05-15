@@ -6,8 +6,8 @@
 
 This work draws inspiration from the following projects:
 
-* **ECCV_TransFusion** (GitHub)
-* **r3d-ad** (GitHub)
+* **ECCV_TransFusion** ([https://github.com/MaticFuc/ECCV_TransFusion](https://github.com/MaticFuc/ECCV_TransFusion))
+* **r3d-ad** ([https://github.com/zhouzheyuan/r3d-ad](https://github.com/zhouzheyuan/r3d-ad))
 
 ---
 
